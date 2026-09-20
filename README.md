@@ -10,7 +10,7 @@ This repository showcases my primary projects, custom Discord bots, and automati
 
 ## Projects
 
-### 🤖 `Amigo Bot`
+### 🤖 [Amigo Bot](https://github.com/ssingg056-rgb/Amigo)
 
 A feature-packed custom Discord bot hosted on Render:
 
@@ -20,7 +20,7 @@ A feature-packed custom Discord bot hosted on Render:
 
 ---
 
-### ⚡ `Pokétwo Autocatcher`
+### ⚡ [Pokétwo Autocatcher](https://github.com/ssingg056-rgb/Poketwo-Autocatcher)
 
 An automated utility script for Pokétwo spawn detection and auto-catching:
 
